@@ -1,0 +1,5 @@
+deck.o
+eval.o
+cards.o
+test-eval
+test_funcs.c

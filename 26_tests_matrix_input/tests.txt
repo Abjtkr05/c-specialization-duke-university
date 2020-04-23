@@ -1,0 +1,9 @@
+inpyt7.txt
+input6.txt
+input2.txt
+input3.txt
+input4.txt
+
+input1.tx
+2 input1.txt
+input5.txt
